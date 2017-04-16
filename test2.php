@@ -5,7 +5,7 @@
  * Date: 15.04.2017
  * Time: 21:50
  */
-// hello
+// hello 999
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 echo 'after header</br>';
 
